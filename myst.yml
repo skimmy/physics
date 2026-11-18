@@ -14,6 +14,9 @@ project:
     - title: Classical Mechanics
       children:
         - file: 01-mechanics/05-two-body.md
+    - title: Quantum Mechanics
+      children:
+        - file: 03-quantum/02-1d-particle.md
     
 site:
   template: book-theme
